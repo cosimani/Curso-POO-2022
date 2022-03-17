@@ -76,7 +76,7 @@ Metodología didáctica
 	- Denominaremos a estos ejercicios como Entregables.
 	- El tiempo de duración del video queda a criterio de quien lo entrega.
 	- El video se puede editar como se desee. (`aquí una herramienta online <https://online-video-cutter.com/es/>`_)
-	- Entrar al siguiente `link para ver el registro de los entregables <https://docs.google.com/spreadsheets/d/1xbj6brqzdn3R9sfjDEP0LEjg6CwMNMOb8dBEYGmxhTw/edit?usp=sharing>`_ 
+	- Entrar al siguiente `link para ver el registro de los entregables <https://docs.google.com/spreadsheets/d/10ZZtM2pi8ZWUbvzT3BwAT7m-Xo7j8eracUu7WN_Vzdo/edit?usp=sharing>`_ 
 
 
 :Regularidad: 
