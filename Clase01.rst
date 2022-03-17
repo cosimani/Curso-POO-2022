@@ -41,8 +41,7 @@ Instalación de herramientas
 	- Desinstalar todas las versiones de Qt ejecutando C:\\Qt\\MaintenanceTool.exe y tildando Uninstall only 
 	- Descargar el `Instalador Online <https://www.qt.io/download-thank-you?hsLang=en>`_
 	- Ejecutar el archivo qt-unified-windows-x86-4.1.1-online.exe y utilizar una cuenta de Qt
-	- Realizar la instalación Qt 6.1 for desktop development. Se requieren 16 GBytes de disco. En caso de querer reducir, se deberá hacer una Custom installation. Toma aproximadamente 45 minutos la descarga e instalación.
-	- Asegurarse que en la configuración de QtCreator se utilice Qt 6.1.2 con MinGW 64 bits
+	- Se recomienda: 'Qt 5.13.2'  Qt Creator 7.0.0-rc1'  'MinGW 7.3.0 32-bit'  'MinGW 7.3.0 64-bit'
 
 :OpenSSL: 
 	- Descargar instalador desde la `Página de descarga <https://slproweb.com/products/Win32OpenSSL.html>`_
@@ -93,6 +92,6 @@ Entregable Clase 01
 - Punto de partida: Computadora sin Qt instalado
 - Se pide grabar un video utilizando el Qt ejecutando un programa básica o de los ejemplos que ya trae el QtCreator.
 - Este primer entregable tiene como objetivo poner a punto el mecanismo de entrega de los ejercicios de cada clase.
-- Se recomienda: 'Qt Creator 7.0.0-rc1'  'MinGW 7.3.0 32-bit'  'MinGW 7.3.0 64-bit'  'OpenSSL 1.1.1j Toolkit'
+- Se recomienda: 'Qt 5.13.2'  Qt Creator 7.0.0-rc1'  'MinGW 7.3.0 32-bit'  'MinGW 7.3.0 64-bit'  'OpenSSL 1.1.1j Toolkit'
 
 
