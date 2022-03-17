@@ -92,6 +92,6 @@ Entregable Clase 01
 - Punto de partida: Computadora sin Qt instalado
 - Se pide grabar un video utilizando el Qt ejecutando un programa básica o de los ejemplos que ya trae el QtCreator.
 - Este primer entregable tiene como objetivo poner a punto el mecanismo de entrega de los ejercicios de cada clase.
-- Se recomienda: 'Qt 5.13.2'  Qt Creator 7.0.0-rc1'  'MinGW 7.3.0 32-bit'  'MinGW 7.3.0 64-bit'  'OpenSSL 1.1.1j Toolkit'
+- Se recomienda: 'Qt 5.13.2'  'Qt Creator 7.0.0-rc1'  'MinGW 7.3.0 32-bit'  'MinGW 7.3.0 64-bit'  'OpenSSL 1.1.1j Toolkit'
 
 
