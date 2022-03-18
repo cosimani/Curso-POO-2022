@@ -19,12 +19,12 @@ Biblioteca estándar de C++
 
 	    int atoi( const char * )  // Convierte a int un número expresado en cadena
 	    int abs( int )            // Devuleve el valor absoluto
-	    int rand()                // Devuelve un pseudo número aleatorio entre 0 y 32767
+	    int rand()                // Devuelve un número pseudo aleatorio entre 0 y 32767
 
 
 	#include <stdio.h>                   #include <cstdio>    
 
-	    // Borra un archivo. DEvuelve 0 o un código de error.
+	    // Borra un archivo. Devuelve 0 o un código de error.
 	    int remove( const char * filename )
 
 	    // imprime por pantalla. Recibe un número indefinido de argumentos.
