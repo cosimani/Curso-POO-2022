@@ -27,7 +27,7 @@ Biblioteca estándar de C++
 	    // Borra un archivo. Devuelve 0 o un código de error.
 	    int remove( const char * filename )
 
-	    // imprime por pantalla. Recibe un número indefinido de argumentos.
+	    // Imprime por pantalla. Recibe un número indefinido de argumentos.
 	    int printf( const char * format, ... )
 
 	#include <iostream.h>                   #include <iostream>    
