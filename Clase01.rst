@@ -65,7 +65,7 @@ Metodología didáctica
 	- La búsqueda de la resolución del ejercicio se realiza de manera grupal en las mesas (de Discord) y la entrega es individual.
 	- Luego de resolver el ejercicio se debe explicar, en un video compartiendo pantalla, cómo se resuelve y lo que se desee comentar.
 	- Para cada ejercicio se definirá un "Punto de partida" que indicará desde dónde debe comenzar la explicación en el video.
-	- Los ejecicios entregados correctamente llevan la nota 10 siempre que sea entregado hasta 24 horas posteriores a la finalización de la clase. Para los ejercicios de las clases que son los viernes, el tiempo de esta entrega el sigueinte día hábil hasta el mediodía.
+	- Los ejecicios entregados correctamente llevan la nota 10 siempre que sea entregado hasta 24 horas posteriores a la finalización de la clase. Para los ejercicios de las clases que son los viernes, el tiempo de esta entrega el siguiente día hábil hasta el mediodía.
 	- Ejercicios no entregados llevan nota 0.
 	- Los ejecicios entregados correctamente en un tiempo posterior de las 24 horas (o pasado el mediodía ...) la nota será un 5. 
 	- En caso que pase más de una semana (aquí no se distinguen viernes de otro día) se considera como no entregado.
