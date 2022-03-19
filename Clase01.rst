@@ -65,15 +65,16 @@ Metodología didáctica
 	- La búsqueda de la resolución del ejercicio se realiza de manera grupal en las mesas (de Discord) y la entrega es individual.
 	- Luego de resolver el ejercicio se debe explicar, en un video compartiendo pantalla, cómo se resuelve y lo que se desee comentar.
 	- Para cada ejercicio se definirá un "Punto de partida" que indicará desde dónde debe comenzar la explicación en el video.
+	- Denominaremos a estos ejercicios como Entregables.
 	- Los ejecicios entregados correctamente llevan la nota 10 siempre que sea entregado hasta 24 horas posteriores a la finalización de la clase. Para los ejercicios de las clases que son los viernes, el tiempo de esta entrega el siguiente día hábil hasta el mediodía.
 	- Ejercicios no entregados llevan nota 0.
 	- Los ejecicios entregados correctamente en un tiempo posterior de las 24 horas (o pasado el mediodía ...) la nota será un 5. 
 	- En caso que pase más de una semana (aquí no se distinguen viernes de otro día) se considera como no entregado.
 	- Ejercicios que no respeten el punto de partida y/o la completitud del ejercicio llevan nota 4.
+	- La nota final de los Entregables se calcula siguiendo la escala usada por la UBP, y el resto de las notas para cada uno de los entregables en la escala lineal, es decir, un 4 es el 40%, el 5 es el 50%, .... Todo se calcula directamente por las fórmulas en la planilla del registro de los Entregables.
 	- Todo esto es válido para los que asistan a clases como para los que no. En caso de necesitar más tiempo por razones particulares, escribir al docente por WhatsApp para fijar una nueva hora de entrega.
 	- El video debe quedar disponible en Youtube como No listado y se comparte el link por mensaje privado en Teams.
 	- Para subir videos largo a Youtube, la cuenta debe estar verificada (`ver cómo hacerlo en este video: <https://www.youtube.com/watch?v=L2BZQlnlc5M>`_)
-	- Denominaremos a estos ejercicios como Entregables.
 	- El tiempo de duración del video queda a criterio de quien lo entrega.
 	- El video se puede editar como se desee. (`aquí una herramienta online <https://online-video-cutter.com/es/>`_)
 	- Entrar al siguiente `link para ver el registro de los entregables <https://docs.google.com/spreadsheets/d/10ZZtM2pi8ZWUbvzT3BwAT7m-Xo7j8eracUu7WN_Vzdo/edit?usp=sharing>`_ 
