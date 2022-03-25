@@ -16,12 +16,15 @@ Función Genérica
 
 	void imprimir ( int v[], int cantidad )  {
 	    for ( int i = 0 ; i < cantidad ; i++ )
-	        cout << v[ i ] << " ";
+	        std::cout << v[ i ] << " ";
+	    std::cout << std::endl;
 	}
 
-	int main()  {
+	int main( int, char ** )  {
 	    int v1[ 5 ] = { 5, 2, 4, 1, 6 };
 	    imprimir( v1, 3 );
+
+	    return 0;
 	}
 
 - Ahora necesitamos la impresión de un array de float
@@ -62,13 +65,13 @@ Función Genérica
 
 .. code-block:: c
 
-	cout << v[ i ]
+	std::cout << v[ i ]
 
 - Esto pone una restricción, ya que sólo se admitirá los tipos de datos para los que se puedan imprimir en pantalla con:
 
 .. code-block:: c
 
-	cout <<
+	std::cout <<
 
 
 Cadena de caracteres
