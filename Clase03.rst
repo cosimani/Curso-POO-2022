@@ -36,15 +36,18 @@ Función Genérica
 
 	template < class T > void imprimir ( T v[], int cantidad )  {
 	    for ( int i=0 ; i < cantidad ; i++ )
-	        cout << v[ i ] << " ";
+	        std::cout << v[ i ] << " ";
+	    std::cout << std::endl;
 	}
 
-	int main()  {
+	int main( int, char ** )  {
 	    int v1[ 5 ] = { 5, 2, 4, 1, 6 };
 	    float v2[ 4 ] = { 2.3, 5.1, 0, 2 };
 
-	    imprimir( v1, 5 );  // qué pasa si pongo cantidad 10 -> Publica basura 
+	    imprimir( v1, 5 );  // qué pasa si pongo cantidad 10 -> Publica basura
 	    imprimir( v2, 2 );
+
+	    return 0;
 	}
 
 - El compilador utiliza el código de la función genérica como plantilla para crear automáticamente dos funciones sustituyendo T por el tipo de dato concreto.
@@ -66,11 +69,6 @@ Función Genérica
 .. code-block:: c
 
 	cout <<
-
-**Ejercicio**
-
-- Escribir en C++ una función genérica para ordenar e imprimir un array (sólo tipos int, float y char). Que la publicación sea ordenada utilizando el método de ordenamiento por inserción.
-
 
 
 Cadena de caracteres
@@ -103,6 +101,41 @@ Cadena de caracteres
 	Puntero a char   const char *c = s1.c_str()
 
 
+Punteros
+========
+
+**Declaración**
+
+.. code-block:: c
+
+	int * entero;     // entero es un puntero a int
+	char * caracter;  // puntero a char
+
+	entero      es el puntero
+	*entero     es el contenido
+
+
+**Punteros a variables**
+
+.. code-block:: c
+
+	int entero;         // entero es una variable int
+	int * pEntero;      // pEntero es un puntero a int
+	pEntero = &entero;  // &entero es la dirección de memoria donde se almacena entero
+
+**Arrays y punteros**
+
+.. code-block:: c
+
+	int miArray[ 10 ];	// miArray es como un puntero al primer elemento
+	int* puntero;
+
+	puntero = miArray;  // similar a:  puntero = &miArray[0];
+	( *puntero )++;     // equivale a miArray[0]++;  // incrementa
+	puntero++;          // equivale a &miArray[1];   // se mueve una posición
+
+	puntero = puntero + 3;  // se desplaza 3 posiciones int
+
 
 
 Entregable Clase 03
@@ -112,4 +145,6 @@ Entregable Clase 03
 - Crear una función genérica que permita imprima por consola sus valores ordenados
 - Es decir, se le pasa un array con sus valores desordenados, y la función genérica los imprime ordenados
 - Que el prototipo sea: ``template < class T > void imprimir( T * v, int cantidad, bool mayor_a_menor );``
+- Utilizar el método de ordenamiento por inserción
+- Probar esta función en main utilizando dos arrays (int y float) y ordenar uno de mayor a menor y el otro al revés
 
