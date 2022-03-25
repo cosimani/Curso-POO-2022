@@ -145,9 +145,9 @@ Entregable Clase 03
 ===================
 
 - Punto de partida: Empty qmake Project
-- Crear una función genérica que permita imprima por consola sus valores ordenados
-- Es decir, se le pasa un array con sus valores desordenados, y la función genérica los imprime ordenados
+- Crear una función genérica que imprima por consola sus valores ordenados
+- Es decir, se le pasa un array con sus valores desordenados (o no), y la función genérica los imprime ordenados
 - Que el prototipo sea: ``template < class T > void imprimir( T * v, int cantidad, bool mayor_a_menor );``
 - Utilizar el método de ordenamiento por inserción
-- Probar esta función en main utilizando dos arrays (int y float) y ordenar uno de mayor a menor y el otro al revés
+- Probar esta función en main utilizando dos arrays (int y float) y ordenar de mayor a menor y el otro al revés
 
