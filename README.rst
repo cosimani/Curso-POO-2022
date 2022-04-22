@@ -14,6 +14,7 @@ Parte de este material ha sido inspirado y/o adaptado de múltiples fuentes:
 * `Curso de C++ Zator Systems <http://www.zator.com/Cpp/>`_
 * `Aplicativos para desarrollo con Qt/C++ <http://www.qt.io/download-open-source/>`_
 * `Instaladores offline de Qt <http://download.qt.io/archive/qt/>`_
+* También está disponible este instalador Offline: `https://download.qt.io/archive/qt/5.14/5.14.1 <https://download.qt.io/archive/qt/5.14/5.14.1>`_
 * `Tutoriales y ejemplos con la biblioteca Qt <http://doc.qt.io/qt-5/qtexamplesandtutorials.html>`_
 * `Foro de Qt en Español  <https://forum.qt.io/category/31/spanish>`_
 * `Libro: El lenguaje de programación C++ de Bjarne Stroustrup (disponible en biblioteca de UBP) <http://www.amazon.es/El-lenguaje-programaci%C3%B3n-Bjarne-Stroustrup/dp/847829046X>`_
