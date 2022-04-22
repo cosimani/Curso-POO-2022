@@ -48,7 +48,7 @@ Dibujar a mano sobre un QWidget
 	void drawText( int x, int y, QString & text )
 	void fillRect( int x, int y, int ancho, int alto )
 
-	
+
 
 QLineEdit
 ^^^^^^^^^
@@ -102,8 +102,10 @@ Ejercicio Clase 09
 Entregable Clase 09
 ===================
 
-- Punto de partida: Ejemplo del control de volumen
-- Cuando el valor del QSlider se modifique, colocar como título de la ventana el mismo valor que tiene el QSlider. 
+- Punto de partida: Proyecto vacío
+- Explicar a medida que va escribiendo código, la creación de un QGridLayout para un login 
+- También se puede ir explicar con voz en off
+
 
 
 
