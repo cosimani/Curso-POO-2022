@@ -104,7 +104,7 @@ Entregable Clase 09
 
 - Punto de partida: Proyecto vacío
 - Explicar a medida que va escribiendo código, la creación de un QGridLayout para un login 
-- También se puede ir explicar con voz en off
+- También se puede explicar con voz en off
 
 
 
