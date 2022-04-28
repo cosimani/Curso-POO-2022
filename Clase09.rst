@@ -42,39 +42,13 @@ Dibujar a mano sobre un QWidget
 
 .. code-block:: c
 
-	void drawEllipse( int x, int y, int ancho, int alto )
-	void drawImage( int x, int y, QImage & image )
-	void drawLine( int x1, int y1, int x2, int y2 )
-	void drawText( int x, int y, QString & text )
-	void fillRect( int x, int y, int ancho, int alto )
+	void drawEllipse( int x, int y, int ancho, int alto );
+	void drawImage( int x, int y, QImage & image );
+	void drawLine( int x1, int y1, int x2, int y2 );
+	void drawText( int x, int y, QString & text );
+	void fillRect( int x, int y, int ancho, int alto );
 
 
-
-QLineEdit
-^^^^^^^^^
-
-.. code-block:: c
-
-	QLineEdit * le = new QLineEdit;
-	le->setEchoMode( QLineEdit::Password );
-	le->setEnabled( false );
-
-	// QLineEdit::Normal  // Se visualizan al escribir
-	// QLineEdit::NoEcho  // No se visualiza nada
-	// QLineEdit::Password  // Se escribe como asteriscos
-	// QLineEdit::PasswordEchoOnEdit  // Se escribe normal y al dejar de editar se convierten en asteriscos
-
-**Señales**
-
-.. code-block:: c
-
-	// void returnPressed()  // Detecta cuando el usuario presiona Enter.
-
-	// void editingFinished()  // Cuando pierde foco.
-
-	// void textChanged( const QString & text )  // Texto modificado por código o por usuario desde la gui.
-
-	// void textEdited( const QString & text )  // Sólo por el usuario.
 
 
 QGridLayout
