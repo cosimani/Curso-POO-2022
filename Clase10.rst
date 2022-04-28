@@ -7,12 +7,6 @@ Clase 10 - POO 2022
 (Fecha: 28 de abril)
 
 
-.. figure:: imagenes/java_vs_cplusplus.gif
-
-- Para crear gifs a partir de videos en youtube en: https://gifs.com 
-
-
-
 QLineEdit
 ^^^^^^^^^
 
