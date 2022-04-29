@@ -182,6 +182,83 @@ Parámetros desde la línea de comandos
 	}
 
 
+
+**Constructores con argumentos por defecto**
+
+.. code-block:: c
+
+	class ClaseA  {
+	public:
+	    ClaseA( int a = 10, int b = 20 ) : a( a ), b( b )  {  }
+	
+	    void verDatos( int &a, int &b )  {
+	        a = this->a;
+	        b = this->b;
+	    }
+
+	private:
+	    int a, b;
+	};
+
+	int main( int argc, char ** argv )  {
+	    ClaseA * objA = new ClaseA;
+
+	    int a, b;
+	    objA->verDatos( a, b );
+	
+	    std::cout << "a = " << a << " b = " << b << std::endl;
+
+	    return 0;
+	}
+
+	// Probar con:	
+	
+	ClaseA( int c, int a = 10, int b = 20 ) : a( a ), b( b ), c( 0 )  {  }
+
+	ClaseA( int a = 10, int b = 20, int c ) : a( a ), b( b ), c( 0 )  {  }
+
+
+
+**Ejercicio:** Escribir la salida por consola de la siguiente aplicación:
+
+.. code-block:: c
+
+	#include <QApplication>
+	#include <QDebug>
+
+	int main( int argc, char** argv )  {
+	    QApplication app( argc, argv );
+
+	    int a = 10, b = 100, c = 30, d = 1, e = 54;
+	    int m[ 10 ] = { 10, 9, 80, 7, 60, 5, 40, 3, 20, 1 };
+	    int *p = &m[ 3 ], *q = &m[ 6 ];
+
+	    ++q;
+	    qDebug() << a + m[ d / c ] + b-- / *q + 10 + e--;
+
+	    p = m;
+	    qDebug() << e + *p + m[ 9 ]++;
+
+	    return 0;
+	}
+
+
+**Ejercicio**
+
+- Crear un vector de 100 números enteros.
+- Los valores serán aleatorios y positivos menores o iguales a 10.
+- Utilizar un algoritmo para ordenar de menor a mayor estos números.
+
+
+**Ejercicio**
+
+- Crear dos ``std::vector``. Un ``vector< double >`` y un ``vector< double * >``.
+- Agregar 10 elementos en cada uno.
+- Averiguar cuál objeto ocupa más memoria. 
+- Publicar por consola el tamaño.
+
+
+
 	
 **Ejercicio:** Comenzar un proyecto vacío con QtCreator y diseñar un login de usuarios:
  
@@ -305,8 +382,8 @@ Ejercicio Clase 11
 Entregable Clase 11
 ===================
 
-- Punto de partida: Proyecto del Ejercicio Clase 10  
-- Reemplazar el QWidget vacío por un QTextEdit.
-- Explicar a medida que va escribiendo código o con voz en off.
+- Punto de partida: Contenido de la página de GitHub de la clase 11 abierto en pantalla.
+- Leer todo lo que está en esta página e ir leyendo y explicando.
+- No es obligatorio saber todo lo que está escrito
 
 
