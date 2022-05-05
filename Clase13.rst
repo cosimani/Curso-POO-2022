@@ -4,7 +4,7 @@
 
 Clase 13 - POO 2022
 ===================
-(Fecha: 5 de mayo)
+(Fecha: 6 de mayo)
 
 
 
@@ -89,7 +89,7 @@ Clase QNetworkAccessManager
 Clase QIODevice
 ^^^^^^^^^^^^^^^
 
-.. figure:: images/clase08/qiodevice.png 
+.. figure:: imagenes/qiodevice.png 
 
 - Clase base de los dispositivos de I/O
 - Algunos métodos:
