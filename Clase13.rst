@@ -8,8 +8,6 @@ Clase 13 - POO 2022
 
 
 
-
-
 Web Service
 ^^^^^^^^^^^
 
@@ -188,7 +186,7 @@ Obtener una imagen desde internet
 Ejercicio Clase 13
 ==================
 
-- Readaptar el Ejercicio de la ventana con la imagen centrada mencionado en la clase 11 para que la imagen sea una que se descargada de internet.
+- Readaptar el Ejercicio de la ventana con la imagen centrada mencionado en la clase 11 para que la imagen sea una descargada de internet.
 
 
 Entregable Clase 13
