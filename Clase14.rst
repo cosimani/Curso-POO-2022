@@ -11,7 +11,7 @@ Clase 14 - POO 2022
 
 
 Polimorfismo
-^^^^^^^^^^^^
+============
 
 - Lo utilizamos con punteros.
 - Nos permite acceder a objetos de la clase derivada usando un puntero a la clase base.
@@ -68,7 +68,7 @@ Polimorfismo
 
 
 Funciones virtuales
-^^^^^^^^^^^^^^^^^^^
+===================
 
 - Puede ser interesante llamar a la función de la derivada (en polimorfismo).
 - Al declarar una función como virtual en la clase base, si se superpone en la derivada, al invocar usando el puntero a la clase base, se ejecuta la versión de la derivada.
@@ -112,7 +112,7 @@ Funciones virtuales
 
 
 Función virtual pura y clase abstracta
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+======================================
 
 - No necesita ser definida, sólo se declara.
 - Será definida en las clases derivadas
