@@ -172,7 +172,7 @@ Función virtual pura y clase abstracta
 
 
 Uso de Qt Designer
-..................
+==================
 
 - Nuevo proyecto -> Qt Widgets Application
 - Utilizar el puntero ``ui`` para acceder a los objetos del diseño
