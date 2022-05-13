@@ -12,7 +12,7 @@ Conexión a base de datos
 
 **Ejemplo de la estructura de las tablas en la base de datos**
 
-.. figure:: images/clase11/tablas.png 
+.. figure:: imagenes/tablas.png 
 
 - Con Qt se pueden utilizar los siguientes motores de base de datos:
 	- **ODBC (Open DataBase Connectivity)**: 
