@@ -140,37 +140,14 @@ http://www.md5.cz/
 
 **Algunos argentinos que también explican como los mexicanos** 
 
-- Clic sobre los GIF para abrir los videos 
 
-**Crear base de datos**
+[Crear base de datos](https://www.youtube.com/watch?v=U9iE6pM0bxM)
 
-|ImageLink|_ 
+[Crear tabla](https://www.youtube.com/watch?v=_-hKca2k784)
 
-.. |ImageLink| image:: /imagenes/crearBase.gif
-.. _ImageLink: https://www.youtube.com/watch?v=U9iE6pM0bxM
+[Insertar registro](https://www.youtube.com/watch?v=RggFhFZnCPU)
 
-**Crear tabla**
-
-|ImageLink2|_ 
-
-.. |ImageLink2| image:: /imagenes/crearTabla.gif
-.. _ImageLink2: https://www.youtube.com/watch?v=_-hKca2k784
-
-**Insertar registro**
-
-|ImageLink3|_ 
-
-.. |ImageLink3| image:: /imagenes/insertarRegistro.gif
-.. _ImageLink3: https://www.youtube.com/watch?v=RggFhFZnCPU
-
-**Consultar datos**
-
-|ImageLink4|_ 
-
-.. |ImageLink4| image:: /imagenes/consultarDatos.gif
-.. _ImageLink4: https://www.youtube.com/watch?v=8emd37mvN2E
-
-
+[Consultar datos](https://www.youtube.com/watch?v=8emd37mvN2E)
 
 
 Ejercicio Clase 16
