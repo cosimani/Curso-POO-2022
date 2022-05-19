@@ -141,13 +141,13 @@ http://www.md5.cz/
 **Algunos argentinos que también explican como los mexicanos** 
 
 
-[Crear base de datos](https://www.youtube.com/watch?v=U9iE6pM0bxM)
+- `Crear base de datos <https://www.youtube.com/watch?v=U9iE6pM0bxM>`_
 
-[Crear tabla](https://www.youtube.com/watch?v=_-hKca2k784)
+- `Crear tabla <https://www.youtube.com/watch?v=_-hKca2k784>`_
 
-[Insertar registro](https://www.youtube.com/watch?v=RggFhFZnCPU)
+- `Insertar registro <https://www.youtube.com/watch?v=RggFhFZnCPU>`_
 
-[Consultar datos](https://www.youtube.com/watch?v=8emd37mvN2E)
+- `Consultar datos <https://www.youtube.com/watch?v=8emd37mvN2E>`_
 
 
 Ejercicio Clase 16
