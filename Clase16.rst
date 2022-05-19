@@ -117,25 +117,6 @@ http://www.md5.cz/
 
 
 
-
-**Ejercicio 22**
-
-- Crear el siguiente método dentro de la clase AdminDB:
-
-.. code-block:: c	
-	
-	/**
-	 * @brief Método que ejecuta una consulta SQL a la base de datos que ya se encuentra conectado. 
-	          Utiliza QSqlQuery para ejecutar la consulta, con el método next() se van extrayendo 
-	          los registros que pueden ser analizados con QSqlRecord para conocer la cantidad de 
-	          campos por registro.
-	 * @param comando es una consulta como la siguiente: SELECT nombre, apellido, id FROM usuarios
-	 * @return Devuelve un QVector donde cada elemento es un registro, donde cada uno de estos registros 
-	           están almacenados en un QStringList que contiene cada campo de cada registro.	           
-	 */
-	QVector<QStringList> select(QString comando); 
-
-
 **Para independizar del SO**
 
 .. code-block:: c
@@ -189,23 +170,6 @@ http://www.md5.cz/
 .. |ImageLink4| image:: /images/clase12/consultarDatos.gif
 .. _ImageLink4: https://www.youtube.com/watch?v=8emd37mvN2E
 
-
-
-Registrar eventos (logs)
-^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. code-block:: c
-
-	bool AdminDB::registrar( QString evento )  {
-	    QSqlQuery query( db );
-
-	    bool exito = query.exec( "INSERT INTO registos (evento) VALUES ('" + evento + "')" );
-
-	    qDebug() << query.lastQuery();
-	    qDebug() << query.lastError();  // Devuelve un objeto de QSqlError
-
-	    return exito;
-	}
 
 
 
