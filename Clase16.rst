@@ -138,7 +138,7 @@ http://www.md5.cz/
 	    qDebug() << "Conexion exitosa";
 
 
-**Algunos argentinos que también explican como los mexicanos** 
+**Algunas explicaciones sobre base de datos** 
 
 
 - `Crear base de datos <https://www.youtube.com/watch?v=U9iE6pM0bxM>`_
