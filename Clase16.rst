@@ -171,7 +171,7 @@ Ejercicio Clase 16
 	        return datosPersonales;
 
 	    QSqlQuery * query = new QSqlQuery( db );
-	    QString claveMd5 = QCryptographicHash::hash( claveMd5.toUtf8(), 
+	    QString claveMd5 = QCryptographicHash::hash( clave.toUtf8(), 
 	                                                 QCryptographicHash::Md5 ).toHex();
 
 	    query->exec( "SELECT nombre, apellido FROM " +
@@ -181,8 +181,8 @@ Ejercicio Clase 16
 	    while( query->next() )  {
 	        QSqlRecord registro = query->record();
 
-	        datosPersonales << query->value( registro.indexOf( "nombre" ).toString() );
-	        datosPersonales << query->value( registro.indexOf( "apellido" ).toString() );
+	        datosPersonales << query->value( registro.indexOf( "nombre" ) ).toString();
+	        datosPersonales << query->value( registro.indexOf( "apellido" ) ).toString();
 	    }
 
 	    return datosPersonales;
