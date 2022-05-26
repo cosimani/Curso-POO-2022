@@ -10,7 +10,9 @@ Registro en video de algunos temas de la clase de hoy
 =====================================================
 
 `AdminDB - https://youtu.be/vvGJMZbvM6Q <https://youtu.be/vvGJMZbvM6Q>`_ 
+
 `QTimer - https://youtu.be/3flYMoF0mNU <https://youtu.be/3flYMoF0mNU>`_ 
+
 `Señales propias - https://youtu.be/4aSg0uv4zdw <https://youtu.be/4aSg0uv4zdw>`_ 
 
 
