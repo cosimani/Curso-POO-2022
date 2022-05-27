@@ -14,7 +14,7 @@ Registro en video de algunos temas de la clase de hoy
 
 
 const
-^^^^^
+=====
 
 - Una variable definida como const no podrá ser modificada a lo largo del programa (se crea como sólo lectura)
 - Se puede aplicar a cualquier tipo:
@@ -108,7 +108,7 @@ const en clases
 
 
 Clase QFileDialog
-^^^^^^^^^^^^^^^^^
+=================
 
 - Permite abrir un cuadro de diálogo para buscar un archivo en disco
 
