@@ -118,7 +118,7 @@ Clase QFileDialog
 
 
 
-Entregable Clase 18
+Entregable Clase 19
 ===================
 
 - Elegir un archivo de imagen del disco con ``QFileDialog`` y dibujar dos copias de esta imagen en un ``QWidget``.
