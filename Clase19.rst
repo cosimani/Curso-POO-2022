@@ -126,9 +126,9 @@ Entregable Clase 19
 
 .. figure:: imagenes/dos_imagenes.png  
  
-- Al hacer click sobre una de estas dos imágenes, se deberá ocultar la imagen sobre la que si hizo click. 
+- Al hacer click sobre una de estas dos imágenes, se deberá ocultar la imagen sobre la que se hizo click. 
 - Cuando se hace click sobre la que quedó visible, se deberá hacerla rotar sobre su centro y que quede girando indefinidemente.
 
 - Grabar con OBS mostrando cómo quedó.
-- Para los que tienen proyecto final, pueden hacer este ejercicio o deberán explicar los avances del trabajo. Lo pueden grabar juntos o individualmente, pero cada uno me lo entrega por Teams individualmente.
+- Para los que tienen proyecto final, pueden hacer este ejercicio o explicar los avances del trabajo. Lo pueden grabar juntos o individualmente, pero cada uno me lo entrega por Teams individualmente.
 
