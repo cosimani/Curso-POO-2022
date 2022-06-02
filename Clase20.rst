@@ -16,8 +16,6 @@ Registro en video de algunos temas de la clase de hoy
 
 `Manager 2022 - https://youtu.be/smkrsoyeB68 <https://youtu.be/smkrsoyeB68>`_ 
 
-https://youtu.be/smkrsoyeB68
-
 
 Herencia múltiple
 ^^^^^^^^^^^^^^^^^
