@@ -10,8 +10,13 @@ Clase 20 - POO 2022
 Registro en video de algunos temas de la clase de hoy
 =====================================================
 
-`Herencia múltiple - https://youtu.be/N-oMfFPVrLs <https://youtu.be/N-oMfFPVrLs>`_ 
+`Herencia múltiple 2021 - https://youtu.be/N-oMfFPVrLs <https://youtu.be/N-oMfFPVrLs>`_ 
 
+`Herencia múltiple 2022 - https://youtu.be/67hIhqDpaGo <https://youtu.be/67hIhqDpaGo>`_ 
+
+`Manager 2022 - https://youtu.be/smkrsoyeB68 <https://youtu.be/smkrsoyeB68>`_ 
+
+https://youtu.be/smkrsoyeB68
 
 
 Herencia múltiple
