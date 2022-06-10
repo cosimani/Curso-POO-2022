@@ -86,4 +86,4 @@ Ejercicio Clase 23
 Entregable Clase 23
 ===================
 
-- Explicar el ejercicio en un video
+- Explicar el ejercicio en un video.
