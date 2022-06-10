@@ -63,15 +63,15 @@ Para rendir el final de POO
 ===========================
 
 :Opción Desafíos:
-	- Examen que corresponde un 50% para un desafío y el otro 50% para la pregunta sobre `Temas 1 al 10 de los vistos en clase <https://github.com/cosimani/Curso-POO-2022/blob/main/Desafios.rst>`_
-	- La pregunta sobre los temas pueden ser respondidas de manera oral, explicadas con alguna presentación y explicadas miestras se explicar código.
+	- Corresponde un 50% para un desafío y el otro 50% para la pregunta sobre `Temas 1 al 10 de los vistos en clase <https://github.com/cosimani/Curso-POO-2022/blob/main/Desafios.rst>`_
+	- La pregunta sobre los temas pueden ser respondidas de manera oral, explicadas con alguna presentación y/o explicadas miestras se escribe código.
 	- Para la pregunta sobre los temas se puede pedir desarrollo de código.
 
 :Opción TP:
-	- Para realizar la entrega en la fecha e examen, primero debe ser aprobada con, al menos, 48 horas antes del examen.
+	- Para realizar la entrega en una fecha de examen, primero debe ser aprobada con, al menos, 48 horas antes del examen.
 	- Para ser aprobada debe tener un mínimo del 70% de la totalidad (70% corresponde a la nota 6 en la escala que se utiliza para los finales).
-	- El trabajo debe tener los contenidos (`Temas 1 al 10 de los vistos en clase <https://github.com/cosimani/Curso-POO-2022/blob/main/Desafios.rst>`_).
-	- Si el trabajo no está al 100%, se preguntará sobre los temas 1 al 10 y/o se pedirán modificaciones sobre el trabajo.
+	- El trabajo debe tener los contenidos vistos en clases (`Temas 1 al 10 <https://github.com/cosimani/Curso-POO-2022/blob/main/Desafios.rst>`_).
+	- Si el trabajo no está al 100%, se preguntará sobre los temas 1 al 10 y/o se pedirán modificaciones sobre el trabajo durante la hora del examen.
 	- La presentación del trabajo se realiza de forma oral y de manera individual.
 
 
