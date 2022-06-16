@@ -64,7 +64,10 @@ Creación de tablas
 
 	CREATE TABLE 'carreras' ('id' INTEGER PRIMARY KEY AUTOINCREMENT, 'nombre' VARCHAR)
 
-	CREATE TABLE 'alumnos' ('id' INTEGER PRIMARY KEY AUTOINCREMENT, id_carrera integer, 'nombre' VARCHAR, 'apellido' VARCHAR, 'mail' VARCHAR, 'legajo' VARCHAR, foreign key(id_carrera) references carreras(id))
+	CREATE TABLE 'alumnos' ( 'id' INTEGER PRIMARY KEY AUTOINCREMENT, 
+	                         id_carrera integer, 'nombre' VARCHAR, 
+	                         'apellido' VARCHAR, 'mail' VARCHAR, 'legajo' VARCHAR, 
+	                         foreign key(id_carrera) references carreras(id) )
 
 
 Para rendir el final de POO
