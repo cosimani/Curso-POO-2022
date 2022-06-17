@@ -11,6 +11,11 @@ Registro en video de algunos temas de la clase de hoy
 
 `Función genérica 2021 <https://www.youtube.com/watch?v=PkmAW31KuV0>`_ 
 
+`Función genérica - arrays - string - punteros 2022 <https://www.youtube.com/watch?v=gdrMyvjf7M4>`_ 
+
+
+
+
 
 Función Genérica
 ================
