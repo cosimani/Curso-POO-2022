@@ -15,6 +15,8 @@ Registro en video de algunos temas de la clase de hoy
 
 
 
+
+
 Levantar base de datos a QTableView
 ===================================
 
@@ -66,7 +68,7 @@ Levantar base de datos a QTableView
 		
 
 Creación de tablas
-------------------
+^^^^^^^^^^^^^^^^^^
 
 .. code-block:: c
 
