@@ -6,6 +6,14 @@ Clase 23 - POO 2022
 ===================
 (Fecha: 16 de junio)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`QTableView 2022 <https://youtu.be/-9hhvX7WaFw>`_
+
+
+
+
 
 Levantar base de datos a QTableView
 ===================================
