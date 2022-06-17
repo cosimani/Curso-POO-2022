@@ -6,6 +6,13 @@ Clase 08 - POO 2022
 ===================
 (Fecha: 21 de abril)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`QGridLayout - Q_OBJECT - Archivos del Qt Project 2021 <https://www.youtube.com/watch?v=KwtBKCs4B1c>`_
+
+
+
 
 
 Macro Q_OBJECT
