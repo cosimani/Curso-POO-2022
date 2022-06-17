@@ -6,8 +6,10 @@ Clase 04 - POO 2022
 ===================
 (Fecha: 31 de marzo)
 
+Registro en video de algunos temas de la clase de hoy
+=====================================================
 
-`Video con el contenido de esta Clase 04 POO 2022 <https://www.youtube.com/watch?v=dH0WqMW3-_w>`_
+`Clases 2021 <https://www.youtube.com/watch?v=dH0WqMW3-_w>`_ 
 
 
 Clases
