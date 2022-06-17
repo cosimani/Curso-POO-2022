@@ -6,6 +6,15 @@ Clase 22 - POO 2022
 ===================
 (Fecha: 10 de junio)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`inline 2021 <https://youtu.be/HbI7Dws-sYg>`_
+
+`friend 2021 <https://youtu.be/zGcQ5n6vhrQ>`_
+
+
+
 
 
 Funciones inline
