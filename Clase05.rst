@@ -6,8 +6,10 @@ Clase 05 - POO 2022
 ===================
 (Fecha: 1 de abril)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Video con el contenido de esta Clase 05 POO 2022 <https://www.youtube.com/watch?v=7l0QZzqbQjI>`_
+`getDatos de Poste - Convenciones 2021 <https://www.youtube.com/watch?v=7l0QZzqbQjI>`_
 
 
 **¿ Cómo funciona el método getDatos() ?**
