@@ -12,6 +12,8 @@ Registro en video de algunos temas de la clase de hoy
 
 `webservice network QIODevice QUrl 2021 <https://youtu.be/gX-DEWwXvh4>`_
 
+`QNetworkAccessManager imagen de internet 2021 <https://youtu.be/JtENM7t2zxE>`_
+
 
 
 Web Service
