@@ -7,7 +7,7 @@ Clase 03 - POO 2022
 (Fecha: 25 de marzo)
 
 Registro en video de algunos temas de la clase de hoy
-=====================================================
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 `Función genérica 2021 <https://www.youtube.com/watch?v=PkmAW31KuV0>`_ 
 
