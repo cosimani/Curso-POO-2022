@@ -6,9 +6,12 @@ Clase 06 - POO 2022
 ===================
 (Fecha: 7 de abril)
 
-`Video 1 con contenido de esta Clase 06 POO 2022 - Introducción a Qt <https://www.youtube.com/watch?v=JYADonAlKPc>`_
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-`Video 2 con contenido de esta Clase 06 POO 2022 - Primer aplicación en Qt <https://www.youtube.com/watch?v=krfWC8mWTQM>`_
+`Introducción a Qt 2021 <https://www.youtube.com/watch?v=JYADonAlKPc>`_
+
+`Primer aplicación en Qt 2021 <https://www.youtube.com/watch?v=krfWC8mWTQM>`_
 
 
 Primer aplicación en Qt con interfaz gráfica
