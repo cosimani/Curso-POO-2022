@@ -7,6 +7,12 @@ Clase 11 - POO 2022
 (Fecha: 29 de abril)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Sutileza con punteros - octal - arrays como parámetros 2021 <https://www.youtube.com/watch?v=XQOBvBVkffM>`_
+
+
 
 Sutilezas con punteros
 ^^^^^^^^^^^^^^^^^^^^^^
