@@ -7,6 +7,12 @@ Clase 13 - POO 2022
 (Fecha: 6 de mayo)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`webservice network QIODevice QUrl 2021 <https://youtu.be/gX-DEWwXvh4>`_
+
+
 
 Web Service
 ^^^^^^^^^^^
