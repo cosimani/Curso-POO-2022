@@ -6,7 +6,10 @@ Clase 07 - POO 2022
 ===================
 (Fecha: 8 de abril)
 
-`Video con contenido de esta Clase 07 POO 2022 - Signals y slots <https://www.youtube.com/watch?v=BHog8TPjnos>`_
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Help signal slot QSlider QSpinBox 2021 <https://www.youtube.com/watch?v=BHog8TPjnos>`_
 
 Signals y slots
 ^^^^^^^^^^^^^^^
