@@ -6,6 +6,17 @@ Clase 02 - POO 2022
 ===================
 (Fecha: 18 de marzo)
 
+Registro en video de algunos temas de la clase de hoy
+=====================================================
+
+`Library, Librería, Biblioteca 2021 <https://www.youtube.com/watch?v=k9ZZSSWuX6E>`_ 
+
+`std C y std C++ 2021 <https://www.youtube.com/watch?v=GrOLHLHcZqg>`_ 
+
+`Espacio de nombres 2021 <https://www.youtube.com/watch?v=oUVACqK4ssg>`_ 
+
+`std namespace vector list 2022 <https://www.youtube.com/watch?v=7ORVHLxFvRM>`_ 
+
 
 Biblioteca estándar de C++
 ==========================
