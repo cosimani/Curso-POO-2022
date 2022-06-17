@@ -9,7 +9,7 @@ Clase 18 - POO 2022
 Registro en video de algunos temas de la clase de hoy
 =====================================================
 
-`Enumaraciones - https://youtu.be/pD5sbMKiGSM <https://youtu.be/pD5sbMKiGSM>`_ 
+`Enumeraciones - https://youtu.be/pD5sbMKiGSM <https://youtu.be/pD5sbMKiGSM>`_ 
 
 
 Enumeraciones
