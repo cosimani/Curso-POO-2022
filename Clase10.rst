@@ -6,6 +6,11 @@ Clase 10 - POO 2022
 ===================
 (Fecha: 28 de abril)
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`QGroupBox - QString number 2021 <https://www.youtube.com/watch?v=c7_axxXbphU>`_
+
 
 QLineEdit
 ^^^^^^^^^
