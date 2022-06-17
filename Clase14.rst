@@ -7,6 +7,12 @@ Clase 14 - POO 2022
 (Fecha: 12 de mayo)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Polimorfismo función virtual 2021 <https://youtu.be/wT_LfW-Ao0A>`_
+
+
 .. figure:: imagenes/moving_to_python.png
 
 
