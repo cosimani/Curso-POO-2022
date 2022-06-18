@@ -15,8 +15,6 @@ Registro en video de algunos temas de la clase de hoy
 `Función virtual pura clase abstracta 2021 <https://youtu.be/LjxmhcdzZbs>`_
 
 
-.. figure:: imagenes/moving_to_python.png
-
 
 Polimorfismo
 ============
