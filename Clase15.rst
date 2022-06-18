@@ -7,6 +7,11 @@ Clase 15 - POO 2022
 (Fecha: 13 de mayo)
 
 
+Registro en video de algunos temas de la clase de hoy
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+`Base de datos 2021 <https://youtu.be/tgPejo-NV-Y>`_
+
 Conexión a base de datos
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
