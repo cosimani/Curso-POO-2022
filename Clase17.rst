@@ -15,6 +15,8 @@ Registro en video de algunos temas de la clase de hoy
 
 `Señales propias - https://youtu.be/4aSg0uv4zdw <https://youtu.be/4aSg0uv4zdw>`_ 
 
+`logs y QTimer 2021 <https://youtu.be/Rh_NYJ42-Zw>`_ 
+
 
 Registrar eventos (logs)
 ^^^^^^^^^^^^^^^^^^^^^^^^
