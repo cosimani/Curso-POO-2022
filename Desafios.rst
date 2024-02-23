@@ -71,4 +71,4 @@ Modalidad de examen final
 Alternativa para la entrega de desafíos
 ----------------------------------------
 
-- El/la estudiante puede presentar todos los desafíos en videos en una lista de Youtube. Deben ser entregados 48 horas antes del examen. Se deben entregar todos los desafíos y sin sobrepasar el tiempo que se indica en la descripción de los videos. Los videos se pueden grabar con OBS, con la cámara visualizada en pantalla y compartiendo la pantalla completa.
+- El/la estudiante puede presentar todos los desafíos en videos en una lista de Youtube. Deben ser entregados 48 horas antes del examen. Se deben entregar todos los desafíos y sin sobrepasar el tiempo que se indica en la descripción de los videos. Los videos se pueden grabar con OBS, con la cámara visualizada, compartiendo la pantalla completa y explicando lo que se va haciendo.
